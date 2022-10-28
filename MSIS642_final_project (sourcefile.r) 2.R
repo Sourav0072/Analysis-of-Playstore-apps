@@ -1,4 +1,3 @@
-setwd("F:\\DhanaLaxmi 	Study\\Sem 1\\MSIS 642 M&R\\Final Project01")
 library(readxl)
 library(dplyr)
 library(ggplot2)
